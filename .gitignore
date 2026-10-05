@@ -59,9 +59,8 @@ packages/
 secrets.json
 
 # Local configuration
-appsettings.Development.json
 appsettings.Local.json
-
+appsettings.json
 # =========================
 # Logs
 # =========================
